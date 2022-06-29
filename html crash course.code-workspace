@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "html crash course",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html crash course"
+	}
+}
